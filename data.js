@@ -1,6 +1,6 @@
 var ks=[
   {name:"我们的世界",name_en:"Our Craft",img:"/games/ourcraft-ad.jpg",iosid:1144041654},
-  {name:"英雄大作战",name_en:"Hero Fighting",img:"games/ad-hero.jpg",iosid:1344510227},
+  {name:"英雄大作战",name_en:"Hero Fighting",img:"games/hero-ad-en.jpg",iosid:1344510227},
   {name:"皮皮虾大作战",name_en:"King Greedy Snake",img:"/games/snake3d-ad.jpg",iosid:1249822516},
   {name:"战车大逃杀",name_en:"Hot Chariot",img:"/games/ad-hotchariot.jpg",iosid:1280455730},
   {name:"像素高速",name_en:"Pixel Highway",img:"/games/colorcar-ad.jpg",iosid:1107836993},
