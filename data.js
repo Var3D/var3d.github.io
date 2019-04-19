@@ -14,7 +14,7 @@ var ks=[
   {name:"堆箱子",name_en:"Stack Box",img:"/games/stack-ad.jpg",iosid:1100589304},
   {name:"消除逗比",name_en:"Bean Boom",img:"/games/beanboom-ad.jpg",iosid:1042030744},
   {name:"童话爱消除",name_en:"Fairy Tale Tap",img:"/games/fairytap-ad.jpg",iosid:1065759770},
-  {name:"贪玩蛇战方块",name_en:"Snake Brick",img:"/games/snakebrick-ad.png",iosid:1403252096},
-  {name:"切胖次",name_en:"Cut Pants",img:"/games/catpants-ad.png",iosid:1374746799},
+  {name:"贪玩蛇战方块",name_en:"Snake Brick",img:"/games/snakebrick-ad.jpg",iosid:1403252096},
+  {name:"切胖次",name_en:"Cut Pants",img:"/games/catpants-ad.jpg",iosid:1374746799},
   {name:"跟风小镇",name_en:"Follower Town",img:"/games/town-ad.jpg",iosid:1458557639},
 ];
