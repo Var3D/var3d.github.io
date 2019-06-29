@@ -1,4 +1,5 @@
 var ks=[
+  {name:"小小坦克大作战",name_en:"Battlefield Tank",img:"/games/tankbattlefield-ad.jpg",iosid:1452175303},
   {name:"我们的世界",name_en:"Our Craft",img:"/games/ourcraft-ad.jpg",iosid:1144041654},
   {name:"蛇精病大作战",name_en:"King Greedy Snake",img:"/games/snake3d-ad.jpg",iosid:1249822516},
   {name:"像素高速",name_en:"Pixel Highway",img:"/games/colorcar-ad.jpg",iosid:1107836993},
