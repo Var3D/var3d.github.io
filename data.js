@@ -17,5 +17,5 @@ var ks=[
   {name:"童话爱消除",name_en:"Fairy Tale Tap",img:"/games/fairytap-ad.jpg",iosid:1065759770},
   {name:"贪玩蛇战方块",name_en:"Snake Brick",img:"/games/snakebrick-ad.jpg",iosid:1403252096},
   {name:"疯狂切内裤",name_en:"Cut Pants",img:"/games/catpants-ad.jpg",iosid:1374746799},
-  {name:"跟风小镇",name_en:"Follower Town",img:"/games/town-ad.jpg",iosid:1458557639},
+  {name:"舔狗大作战",name_en:"Follower Town",img:"/games/town-ad.jpg",iosid:1458557639},
 ];
