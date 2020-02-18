@@ -1,3 +1,5 @@
+google.com, pub-3831940733333692, DIRECT, f08c47fec0942fa0
+
 unity.com, 1237213, DIRECT, 96cabb5fbdde37a7
 
 loopme.com, 9621, RESELLER, 6c8d5f95897a5a3b
